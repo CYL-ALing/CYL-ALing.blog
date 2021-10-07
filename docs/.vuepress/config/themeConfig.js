@@ -53,8 +53,8 @@ module.exports = {
   blogger: {
     // 博主信息，显示在首页侧边栏
     avatar: 'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200103123203.jpg',
-    name: 'Evan Xu',
-    slogan: '前端界的小学生',
+    name: 'Roger.Huang',
+    slogan: '电源界的小学生',
   },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
@@ -79,9 +79,7 @@ module.exports = {
   },
   footer: {
     // 页脚信息
-    createYear: 2019, // 博客创建年份
-    copyrightInfo:
-      'Evan Xu | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+    createYear: 2021, // 博客创建年份
   },
   htmlModules // 插入hmtl(广告)模块
 }

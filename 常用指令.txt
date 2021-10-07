@@ -24,3 +24,21 @@ yarn deploy
 
 
 
+
+# VS Code 打开终端快捷键："CTRL" + "`" 
+
+#安装yarn指令
+
+npm install -g yarn
+
+# 检查yarn版本指令
+
+yarn -version
+
+
+
+# install dependency
+
+yarn install
+
+
