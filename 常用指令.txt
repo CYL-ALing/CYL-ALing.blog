@@ -1,0 +1,23 @@
+
+部署教程
+https://www.jianshu.com/p/1f199ee49e4c
+
+
+
+运行本地开发环境
+
+npm run dev
+
+
+bash deploy.sh
+
+部署
+npm run deploy.sh
+
+#gitbash
+yarn deploy
+
+
+https://www.jianshu.com/p/f926e448e94c
+
+
