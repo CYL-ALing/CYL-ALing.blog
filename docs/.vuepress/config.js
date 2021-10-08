@@ -7,7 +7,7 @@ module.exports = {
   // theme: require.resolve('../../theme-vdoing'), // 使用本地主题
 
   title: "Roger's blog",
-  description: 'web前端技术博客,简洁至上,专注web前端学习与总结。JavaScript,js,ES6,TypeScript,vue,python,css3,html5,Node,git,github等技术文章。',
+  description: '电源学习博客,简洁至上,专注电源学习与总结。C#,Python,MCU,DSC,PyQt,git,github等技术文章。',
   // base: '/', // 格式：'/<仓库名>/'， 默认'/'
   base: '/blog/',
   markdown: {

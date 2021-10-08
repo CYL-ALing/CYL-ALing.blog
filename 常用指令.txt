@@ -1,5 +1,5 @@
 http://www.rongkangwen.cn/
-ssh-keygen -t rsa -C "Roger0x0000@outlook.com.com"
+ssh-keygen -t rsa -C "Roger0x0000@outlook.com"
 
 
 
