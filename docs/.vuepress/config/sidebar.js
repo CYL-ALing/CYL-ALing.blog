@@ -16,23 +16,7 @@ module.exports = {
       ]
     },
   ],
-  '/02.页面/': [
-    {
-      title: 'html-css',
-      collapsable: false,
-      children: [
-        ['01.html-css/00.flex布局语法','flex布局语法'],
-        ['01.html-css/01.flex布局案例-基础','flex布局案例-基础'],
-        ['01.html-css/02.flex布局案例-骰子','flex布局案例-骰子'],
-        ['01.html-css/03.flex布局案例-网格布局','flex布局案例-网格布局'],
-        ['01.html-css/04.flex布局案例-圣杯布局','flex布局案例-圣杯布局'],
-        ['01.html-css/05.flex布局案例-输入框布局','flex布局案例-输入框布局'],
-        ['01.html-css/06.CSS3之transform过渡','CSS3之transform过渡'],
-        ['01.html-css/07.CSS3之animation动画','CSS3之animation动画'],
-      ]
-    },
-  ],
-  '/03.技术杂谈/': [
+  '/02.技术杂谈/': [
     {
       title: '技术杂谈',
       collapsable: false, //是否可折叠，可选的，默认true
@@ -48,7 +32,7 @@ module.exports = {
       ]
     }
   ],
-  '/04.其他/': [
+  '/03.其他/': [
     {
       title: '学习',
       collapsable: false,

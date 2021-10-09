@@ -7,13 +7,6 @@ module.exports = [
     items: [
       // 说明：以下所有link的值只是在相应md文件定义的永久链接（不是什么特殊生成的编码）。另外，注意结尾是有斜杠的
       {
-        text: '前端文章',
-        items: [
-          { text: 'JavaScript', link: '/pages/8143cc480faf9a11/' },
-          // { text: 'Vue', link: '/pages/5d463fbdb172d43b/' },
-        ],
-      },
-      {
         text: '学习笔记',
         items: [
           { text: '《JavaScript教程》', link: '/note/javascript/' },
@@ -39,14 +32,6 @@ module.exports = [
           },
         ],
       },
-    ],
-  },
-  {
-    text: '页面',
-    link: '/ui/',
-    items: [
-      { text: 'HTML', link: '/pages/8309a5b876fc95e3/' },
-      { text: 'CSS', link: '/pages/0a83b083bdf257cb/' },
     ],
   },
   {
