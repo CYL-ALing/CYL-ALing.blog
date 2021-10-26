@@ -9,8 +9,6 @@ module.exports = [
       {
         text: '学习笔记',
         items: [
-          { text: '《JavaScript教程》', link: '/note/javascript/' },
-          { text: '《JavaScript高级程序设计》', link: '/note/js/' },
           { text: '《单片机》笔记', link: '/note/mcu/' },
           { text: '《Vue》', link: '/note/vue/' },
           { text: '《React》', link: '/note/react/' },
@@ -21,14 +19,6 @@ module.exports = [
           {
             text: '《Git》',
             link: '/note/git/',
-          },
-          {
-            text: 'TypeScript',
-            link: '/pages/51afd6/',
-          },
-          {
-            text: 'JS设计模式总结',
-            link: '/pages/4643cd/',
           },
         ],
       },
@@ -56,10 +46,10 @@ module.exports = [
   },
   { text: '关于', link: '/about/' },
   {
-    text: '收藏',
+    text: '书签',
     link: '/pages/beb6c0bd8a66cea6/',
     // items: [
-    //   { text: '网站', link: '/pages/beb6c0bd8a66cea6/' },
+    //   { text: '书签', link: '/pages/beb6c0bd8a66cea6/' },
     //   { text: '资源', link: '/pages/eee83a9211a70f9d/' },
     //   { text: 'Vue资源', link: '/pages/12df8ace52d493f6/' },
     // ],
