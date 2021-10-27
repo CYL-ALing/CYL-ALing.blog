@@ -29,7 +29,7 @@ module.exports = [
     link: '/technology/',
     items: [
       { text: '技术文档', link: '/pages/9a7ee40fc232253e/' },
-      { text: '电源文集', link: '/pages/4c778760be26d8b3/' },
+      { text: '电源文集', link: '/pages/pfc20211027221400/' },
     ],
   },
   {
