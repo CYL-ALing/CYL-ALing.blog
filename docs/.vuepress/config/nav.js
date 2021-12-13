@@ -10,16 +10,7 @@ module.exports = [
         text: '学习笔记',
         items: [
           { text: '《单片机》笔记', link: '/note/mcu/' },
-          { text: '《Vue》', link: '/note/vue/' },
-          { text: '《React》', link: '/note/react/' },
-          {
-            text: '《TypeScript 从零实现 axios》',
-            link: '/note/typescript-axios/',
-          },
-          {
-            text: '《Git》',
-            link: '/note/git/',
-          },
+          { text: '《Git》',link: '/note/git/',},
         ],
       },
     ],
@@ -40,7 +31,6 @@ module.exports = [
       { text: '面试', link: '/pages/aea6571b7a8bae86/' },
       { text: '心情杂货', link: '/pages/2d615df9a36a98ed/' },
       { text: '实用技巧', link: '/pages/baaa02/' },
-      { text: '英语统考', link: '/pages/English20211108052400/' },
       { text: '友情链接', link: '/friends/' },
     ],
   },
