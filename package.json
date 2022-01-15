@@ -26,6 +26,8 @@
     "yamljs": "^0.3.0"
   },
   "dependencies": {
+    "katex": "^0.15.2",
+    "markdown-it-texmath": "^0.9.7",
     "vuepress-plugin-comment": "^0.7.3"
   }
 }

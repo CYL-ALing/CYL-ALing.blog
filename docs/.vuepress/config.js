@@ -11,9 +11,13 @@ module.exports = {
   // base: '/', // 格式：'/<仓库名>/'， 默认'/'
   base: '/blog/',
   markdown: {
-    lineNumbers: true, // 代码行号
+    lineNumbers: true,// 代码行号
+    anchor: { permalink: false },
+    toc: {includeLevel: [1,2]},
+    extendMarkdown: md => {
+      md.use(require('markdown-it-texmath'))
+    }
   },
-
   head,
   plugins,
   themeConfig,
