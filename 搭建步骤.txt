@@ -27,3 +27,5 @@ npm run dev
 #部署使用gitbash输入指令
 
 yarn deploy
+
+
