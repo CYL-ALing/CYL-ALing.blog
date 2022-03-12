@@ -12,6 +12,7 @@ module.exports = [
           { text: '《单片机》笔记', link: '/note/mcu/' },
           { text: '《Git》',link: '/note/git/',},
           { text: '《WinForm》笔记',link: '/note/WinForm/',},
+          { text: '《逻辑英语》笔记',link: '/note/LogicalEnglish/',},
         ],
       },
     ],

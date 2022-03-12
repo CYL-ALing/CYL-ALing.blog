@@ -5,13 +5,13 @@
   "author": {
     "name": "gaoyi(Evan) Xu"
   },
-  "homepage": "https://github.com/Roger0x0000/blog#readme",
+  "homepage": "https://github.com/CYL-ALing/blog#readme",
   "bugs": {
-    "url": "https://github.com/Roger0x0000/blog/issues"
+    "url": "https://github.com/CYL-ALing/blog/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Roger0x0000/blog.git"
+    "url": "git+https://github.com/CYL-ALing/blog.git"
   },
   "dependencies": {
     "@better-scroll/core": "^2.0.0-beta.6",
