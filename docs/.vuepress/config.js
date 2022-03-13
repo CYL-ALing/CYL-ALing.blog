@@ -6,7 +6,7 @@ module.exports = {
   theme: 'vdoing', // 使用npm包主题
   // theme: require.resolve('../../theme-vdoing'), // 使用本地主题
 
-  title: "Roger's blog",
+  title: "ALing's blog",
   description: '电源学习博客,简洁至上,专注电源学习与总结。C#,Python,MCU,DSC,PyQt,git,github等技术文章。',
   // base: '/', // 格式：'/<仓库名>/'， 默认'/'
   base: '/blog/',

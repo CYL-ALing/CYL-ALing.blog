@@ -9,20 +9,11 @@ module.exports = [
       {
         text: '学习笔记',
         items: [
-          { text: '《单片机》笔记', link: '/note/mcu/' },
+          { text: '《安卓》笔记', link: '/note/mcu/' },
           { text: '《Git》',link: '/note/git/',},
           { text: '《WinForm》笔记',link: '/note/WinForm/',},
-          { text: '《逻辑英语》笔记',link: '/note/LogicalEnglish/',},
         ],
       },
-    ],
-  },
-  {
-    text: '技术',
-    link: '/technology/',
-    items: [
-      { text: '技术文档', link: '/pages/9a7ee40fc232253e/' },
-      { text: '电源文集', link: '/pages/pfc20211027221400/' },
     ],
   },
   {

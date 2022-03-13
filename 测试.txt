@@ -1,0 +1,45 @@
+
+说明
+
+
+#ctrl+`打开vscode的终端；
+#vscode的终端 运行本地开发环境，等于编译生成网站的代码
+
+npm run dev
+
+
+# http://localhost:8080/blog/ 本地的链接
+
+#本地测试不需要翻墙
+
+
+#修改 笔记菜单
+
+
+
+
+markdown的文档 格式
+
+---
+title: XC16使用笔记
+date: 2021-10-24 15:49:22
+permalink: /pages/mcu202110260834
+author: Roger
+categories:
+  - 《安卓》笔记
+tags:
+  - 笔记
+  - XC16
+  - 单片机
+---
+
+
+
+
+
+技术文档
+电源文集
+
+
+图片路径
+C:\ALing\blog\ALing_Blog\docs\.vuepress\public\img

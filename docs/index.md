@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: Roger's blog
+heroText: ALing's blog
 tagline: 取乎其上，得乎其中；取乎其中，得乎其下；取乎其下，则无所得矣。
 # actionText: 立刻进入 →
 # actionLink: /web/
@@ -12,10 +12,6 @@ features: # 可选的
     details: 电源、上位机的学习笔记
     link: /web/ # 可选
     imgUrl: /img/web.png # 可选
-  - title: 技术
-    details: 技术文档、教程、技巧、总结等文章
-    link: /technology/
-    imgUrl: /img/other.png
   - title: 更多
     details: 个人杂记、随笔、学习、面试、在线工具等
     link: /more/

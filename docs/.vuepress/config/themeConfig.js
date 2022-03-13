@@ -47,7 +47,7 @@ module.exports = {
 
   author: {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
-    name: 'Roger', // 必需
+    name: 'ALing', // 必需
     link: 'https://github.com/Roger0x0000', // 可选的
   },
   blogger: {

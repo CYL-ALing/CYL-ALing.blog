@@ -13,6 +13,10 @@ yarn --version
 
 #下载主题的代码仓库
 
+http://cnpmjs.org
+
+git clone https://github.com/Roger0x0000/blog.git
+
 git clone https://github.com/xugaoyi/vuepress-theme-vdoing.git
 
 #初始化： ctrl+`打开vscode的终端；输入npm install，安装node_modules
