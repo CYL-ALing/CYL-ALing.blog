@@ -1,12 +1,12 @@
 // head
 module.exports = [
   // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
-  ['link', { rel: 'icon', href: '/img/favicon.ico' }], //favicons，资源放在public文件夹
+  ['link', { rel: 'icon', href: '/img/favicon1.jpeg' }], //favicons，资源放在public文件夹
   [
     'meta',
     {
       name: 'keywords',
-      content: '电源博客,个人技术博客,MCU,技术文档,学习,DSC,python,C#,git,github,markdown',
+      content: 'Android开发知识整理',
     },
   ],
   ['meta', { name: 'baidu-site-verification', content: '7F55weZDDc' }], // 百度统计的站长验证

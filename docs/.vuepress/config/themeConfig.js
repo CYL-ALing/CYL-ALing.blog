@@ -6,7 +6,7 @@ const htmlModules = require('./htmlModules.js');
 module.exports = {
   nav,
   sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
-  logo: '/img/EB-logo.png', // 导航栏logo
+  logo: '/img/lufei2.jpeg', // 导航栏logo
   repo: 'https://github.com/CYL-ALing/blog', // 导航栏右侧生成Github链接
   searchMaxSuggestions: 10, // 搜索结果显示最大数
   lastUpdated: '上次更新', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
@@ -48,13 +48,13 @@ module.exports = {
   author: {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
     name: 'ALing', // 必需
-    link: 'https://github.com/Roger0x0000', // 可选的
+    link: 'https://github.com/CYL-ALing', // 可选的
   },
   blogger: {
     // 博主信息，显示在首页侧边栏
-    avatar: 'https://cdn.jsdelivr.net/gh/Roger0x0000/image_store@master/blog/20211008192606.jpg',
-    name: 'Roger.Huang',
-    slogan: '电源界的小学生',
+    avatar: '/blog/img/lufei2.jpeg',
+    name: 'ALing.Chen',
+    slogan: '默默无闻的搬砖仔~',
   },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
@@ -68,7 +68,7 @@ module.exports = {
       {
         iconClass: 'icon-github',
         title: 'GitHub',
-        link: 'https://github.com/Roger0x0000',
+        link: 'https://github.com/CYL-ALing',
       },
       {
         iconClass: 'icon-erji',
@@ -79,7 +79,7 @@ module.exports = {
   },
   footer: {
     // 页脚信息
-    createYear: 2021, // 博客创建年份
+    createYear: 2022, // 博客创建年份
   },
   htmlModules // 插入hmtl(广告)模块
 }

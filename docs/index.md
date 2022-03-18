@@ -1,23 +1,27 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: ALing's blog
-tagline: 取乎其上，得乎其中；取乎其中，得乎其下；取乎其下，则无所得矣。
+heroText: ALing
+tagline: 面向阳光时，阴影在你背后。背向阳光时，阴影在你眼前。世界从未改变，改变的只是我们面对世界的方向！
+bannerBg: /img/one_banner.jpeg
 # actionText: 立刻进入 →
 # actionLink: /web/
 # bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
-  - title: 笔记
-    details: 电源、上位机的学习笔记
-    link: /web/ # 可选
-    imgUrl: /img/web.png # 可选
-  - title: 更多
-    details: 个人杂记、随笔、学习、面试、在线工具等
-    link: /more/
-    imgUrl: /img/more.png
-
-
+  - title: Java
+    details: Java进阶
+    link: /java/ # 可选
+    imgUrl: /img/java.png # 可选
+  - title: Kotlin
+    details: Kotlin语法糖
+    link: /kotlin/
+    imgUrl: /img/kotlin.png
+  - title: Andoid
+    details: Android开发知识整理
+    link: /android/
+    imgUrl: /img/android.png
+    
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 # postList: detailed
 # simplePostListLength: 10 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）
