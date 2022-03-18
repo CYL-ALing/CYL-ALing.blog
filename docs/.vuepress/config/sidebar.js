@@ -2,7 +2,7 @@
 
 // 侧边栏
 module.exports = {
-  '/01.笔记/': [
+  '/01.Java进阶/': [
     {
       title: 'JavaScript',
       collapsable: false, //是否可折叠，可选的，默认true

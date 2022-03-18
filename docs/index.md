@@ -4,21 +4,21 @@ home: true
 heroText: Roger's blog
 tagline: 取乎其上，得乎其中；取乎其中，得乎其下；取乎其下，则无所得矣。
 # actionText: 立刻进入 →
-# actionLink: /web/
+# actionLink: /java/
 # bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
-  - title: 笔记
-    details: 电源、上位机的学习笔记
-    link: /web/ # 可选
+  - title: Java
+    details: Java进阶
+    link: /java/ # 可选
     imgUrl: /img/web.png # 可选
-  - title: 技术
-    details: 技术文档、教程、技巧、总结等文章
-    link: /technology/
+  - title: Kotlin
+    details: Kotlin语法糖
+    link: /kotlin/
     imgUrl: /img/other.png
-  - title: 更多
+  - title: Andoid
     details: 个人杂记、随笔、学习、面试、在线工具等
-    link: /more/
+    link: /andoid/
     imgUrl: /img/more.png
 
 
