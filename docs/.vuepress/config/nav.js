@@ -19,9 +19,9 @@ module.exports = [
     text: 'Andoid',
     link: '/andoid/',
     items: [
-      { text: '学习', link: '/pages/f2a556/' },
-      { text: '实用技巧', link: '/pages/baaa02/' },
-      { text: '友情链接', link: '/friends/' },
+      { text: 'Android开发那些事', link: '/pages/20220512121300/' },
+      // { text: '实用技巧', link: '/pages/baaa02/' },
+      // { text: '友情链接', link: '/friends/' },
     ],
   },
   { text: '关于', link: '/about/' },
