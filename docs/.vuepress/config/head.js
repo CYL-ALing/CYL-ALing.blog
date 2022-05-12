@@ -6,7 +6,7 @@ module.exports = [
     'meta',
     {
       name: 'keywords',
-      content: '电源博客,个人技术博客,MCU,技术文档,学习,DSC,python,C#,git,github,markdown',
+      content: 'Android开发知识整理',
     },
   ],
   ['meta', { name: 'baidu-site-verification', content: '7F55weZDDc' }], // 百度统计的站长验证
